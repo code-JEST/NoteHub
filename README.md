@@ -1,2 +1,18 @@
 # NoteHub
+Task:
 A notes/image sharing platform (partially similar to Instagram) where you let users create/read/update/delete their notes, photos, etc. Users could comment on the images and notes.
+
+What we learned:
+- Introduction to .NET Core
+- Model-View-Controller
+- Entity Framework (Database CRUD, Asynchronous)
+- Data Access Layer (DAL)
+- Logging and Error Handling
+- Forms and Input validation
+- Security: Authentication and Authorisation
+- Unit Testing
+- Single Page Applications (React)
+
+Sub-application 1: the front-end and back-end should use the Model-View-Controller framework of ASP.NET 8.0
+Sub-application 2: the backend should be .NET 8.0 (can reuse that from Sub-application 1), and the front-end should use a front-end framework with AJAX call (e.g., React).
+A short documentation of 2000-5000 words (in English) must be written, which should include some diagrams for the software architecture and database
