@@ -6,6 +6,9 @@ Sub-application 1: the front-end and back-end should use the Model-View-Controll
 Sub-application 2: the backend should be .NET 8.0 (can reuse that from Sub-application 1), and the front-end should use a front-end framework with AJAX call (e.g., React).
 A short documentation of 2000-5000 words (in English) must be written, which should include some diagrams for the software architecture and database
 
+<img width="2553" height="1273" alt="image" src="https://github.com/user-attachments/assets/d35ada16-72cd-4b03-81d6-2f2fe4691341" />
+
+
 ## What we learned:
 - Introduction to .NET Core
 - Model-View-Controller
